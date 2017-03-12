@@ -1,0 +1,4 @@
+0: "NULL", "Null", "null"
+7: "LUCK", "Luck", "luck"
+9: "DRAGON", "Dragon", "dragon"
+666: "EVIL", "Evil", "evil"
